@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mahmoud.3aaref@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DSTcmWlIkNbxVUG7JDuBlQcbkSAoCbg7/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/mahmoud-aref/mahmoud-aref/blob/main/Mahmoud-Aref-CV.pdf)
 
 - ⚡ Fun fact **I am always learning multiple stuff at same time , ADHD you see and about me also I ... oh look what a fancy bird**
 
